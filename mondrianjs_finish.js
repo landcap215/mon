@@ -18,6 +18,7 @@ function setup()
 {
  createCanvas(640,640); 
  chill();
+ noStroke();
 }
 
 function draw()
